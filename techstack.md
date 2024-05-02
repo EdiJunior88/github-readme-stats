@@ -3,15 +3,15 @@
 ## Tech Stack
 EdiJunior88/github-readme-stats is built on the following main stack:
 
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Codecov](https://codecov.io/) – Code Coverage
 - [ESLint](http://eslint.org/) – Code Review
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Prettier](https://prettier.io/) – Code Review
 - [Vercel](https://vercel.com/) – Static Web Hosting
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -21,15 +21,15 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 EdiJunior88/github-readme-stats is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/7618/bHjpwZem_400x400.png' alt='Vercel'/> [Vercel](https://vercel.com/) – Static Web Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EdiJunior88/github-readme-stats](https://github.com/EdiJunior88/github-readme-stats)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|22<br/>Tools used|02/04/24 <br/>Report generated|
+|22<br/>Tools used|05/02/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -112,7 +112,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://prettier.io/">Prettier</a></sub>
   <br>
-  <sub>v3.2.4</sub>
+  <sub>v3.2.5</sub>
 </td>
 
 <td align='center'>
@@ -154,7 +154,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://github.com/mzabriskie/axios">axios</a></sub>
   <br>
-  <sub>v1.6.7</sub>
+  <sub>v1.6.8</sub>
 </td>
 
 <td align='center'>
@@ -183,13 +183,13 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@testing-library/jest-dom](https://www.npmjs.com/@testing-library/jest-dom)|v6.3.0|01/31/24|dependabot[bot] |MIT|N/A|
-|[axios-mock-adapter](https://www.npmjs.com/axios-mock-adapter)|v1.22.0|01/31/24|dependabot[bot] |MIT|N/A|
-|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v9.1.0|01/24/24|dependabot[bot] |MIT|N/A|
-|[husky](https://www.npmjs.com/husky)|v9.0.7|01/31/24|dependabot[bot] |MIT|N/A|
-|[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v29.7.0|01/31/24|dependabot[bot] |MIT|N/A|
+|[@testing-library/jest-dom](https://www.npmjs.com/@testing-library/jest-dom)|v6.4.2|04/30/24|dependabot[bot] |MIT|N/A|
+|[axios-mock-adapter](https://www.npmjs.com/axios-mock-adapter)|v1.22.0|03/19/24|dependabot[bot] |MIT|N/A|
+|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v9.1.0|02/27/24|dependabot[bot] |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v9.0.11|02/20/24|dependabot[bot] |MIT|N/A|
+|[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v29.7.0|02/07/24|dependabot[bot] |MIT|N/A|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v3.14.1|03/19/22|Davoleo |MIT|N/A|
-|[lint-staged](https://www.npmjs.com/lint-staged)|v15.2.0|12/18/23|dependabot[bot] |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v15.2.2|02/27/24|dependabot[bot] |MIT|N/A|
 |[word-wrap](https://www.npmjs.com/word-wrap)|v1.2.5|07/22/23|dependabot[bot] |MIT|N/A|
 
 <br/>
